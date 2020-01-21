@@ -16,7 +16,8 @@
 [Chemical System Engineering](http://www.chemsys.t.u-tokyo.ac.jp/?lang=en)  
 The University of Tokyo  
  
-I'm M1 in Department of Chemical System Engineering in the University of Tokyo. My research is to develop time-series regression model (soft sensor).
+I'm M1 in Department of Chemical System Engineering in the University of Tokyo.  
+My research is to develop time-series regression model (soft sensor).
 
 
 ## Expertise Area
