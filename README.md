@@ -51,4 +51,4 @@ My research is to develop time-series regression model (soft sensor).
 ## Github Repository
 |Repository|type|Description|
 |---|---|---|
-|[Transfer Learning for Time-Series Regression](https://github.com/dainnovation722/transfer-learning-LSTM)|Research|I research regression model for time-series data with transfer learning and index dataset which is useful when we choose dataset as source dataset.|
+|[Transfer Learning for Time-Series Regression](https://github.com/dainnovation722/transfer-learning-LSTM)|Research|I research regression model for time-series data by transfer learning and index dataset which is useful when we choose dataset as source dataset.|
