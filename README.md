@@ -4,7 +4,7 @@
 |key|value|
 |---|---|
 |Name|Daisaku Hayashi|
-|Grade|M1|
+|Grade|M2|
 |Twitter|[@cherrybachelor](https://twitter.com/cherrybachelor)|
 |GitHub|[dainnovation722](https://github.com/dainnovation722)|
 |Contact|722.dai.innovation@gmail.com|
