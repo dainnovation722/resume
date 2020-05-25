@@ -16,7 +16,7 @@
 [Chemical System Engineering](http://www.chemsys.t.u-tokyo.ac.jp/?lang=en)  
 The University of Tokyo  
  
-I'm M1 in Department of Chemical System Engineering in the University of Tokyo.  
+I'm M2 in Department of Chemical System Engineering in the University of Tokyo.  
 My research is to develop time-series regression model (soft sensor).
 
 
@@ -24,6 +24,7 @@ My research is to develop time-series regression model (soft sensor).
 - Machine Learning
   - Time-Series Prediction
   - Transfer Learning
+  - Anormaly Detection
 - Chemical Engineering 
   - Fluid Simulation 
   - Mixing(static mixer)
@@ -46,7 +47,7 @@ My research is to develop time-series regression model (soft sensor).
 |---|---|---|
 |2019.5 ~ 2019.11|[Metadata](https://metadata.co.jp/)|• Development for BtoB web application <br> • Mathematical optimization technique <br> • Web API|
 |2019.9 |[Albert](https://www.albert2005.co.jp/)|• Development for Reversible Game AI by reinforcement learning|
-|2019.9 ~ Now|[Matsuo Lab.](https://weblab.t.u-tokyo.ac.jp/)<br>[NABLAS](https://nablas.com/)| • Anomaly detection for batch time-series data in chemical plant <br> 
+|2019.9 ~ Now|[Matsuo Lab.](https://weblab.t.u-tokyo.ac.jp/)<br>[NABLAS](https://nablas.com/)| • Anormaly detection for batch time-series data in chemical plant <br> 
 
 ## Github Repository
 |Repository|type|Description|
