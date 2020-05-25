@@ -12,7 +12,7 @@
 
 ## Affilication
 
-[Funatsu & Kotera Lab.](http://funatsu.t.u-tokyo.ac.jp/en/home/)  
+[Funatsu Lab.](http://funatsu.t.u-tokyo.ac.jp/en/home/)  
 [Chemical System Engineering](http://www.chemsys.t.u-tokyo.ac.jp/?lang=en)  
 The University of Tokyo  
  
